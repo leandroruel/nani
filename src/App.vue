@@ -14,7 +14,7 @@ export default {
 };
 </script>
 
-<style>
+<style src="bootstrap-icons/font/bootstrap-icons.css">
 html,
 body {
   height: 100%;
